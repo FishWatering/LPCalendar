@@ -7,7 +7,25 @@
 		<key>LPCalendar.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>EEE1C55920A57B10002E76DE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EEE1C57120A57B12002E76DE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EEE1C57C20A57B12002E76DE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
